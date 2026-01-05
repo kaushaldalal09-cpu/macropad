@@ -1,7 +1,9 @@
 # macropad
 
 
-This macropad will serve three purposes. One is to increase efficiency for my work by opening my most used apps with the click of a button. The second purpose is for playing video games. And the third feature I want is to have a built in game of tetris using the keys and oled display. My macro pad will include a knob (which will increase/decrease the volume) , a oled screen (to show the volume, or the tetris game depending on what mode I'm in), 12 keys, and RGB lights.
+This macropad will serve three purposes. One is to increase efficiency for my work by opening my most used apps with the click of a button. The second purpose is for playing video games. And the third feature I want is to have a built in game of tetris using the keys and oled display. My macro pad will include a knob (which will increase/decrease the volume) , a oled screen (to show the volume, or the tetris game depending on what mode I'm in), 12 keys, and RGB lights. 
+
+All silkscreen artwork was created by me
 
 
 ![Overall hackpad](./images/case1.png)
